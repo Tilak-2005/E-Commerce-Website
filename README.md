@@ -1,5 +1,4 @@
 🛒 E-Commerce Website (MERN Stack)
-📌 Description
 
 A full-stack e-commerce web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js).
 It allows users to browse products, manage a shopping cart, place orders, and includes admin features for managing products and orders.
